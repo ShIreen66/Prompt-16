@@ -28,3 +28,13 @@ html,
     font-size: 15px;
     margin-top: 10px;
  }
+
+ h2 {
+    text-align: center;
+    margin: 20px 0;
+ }
+
+ #campaigns {
+    display: flex;
+    
+ }
