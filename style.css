@@ -119,4 +119,13 @@ html,
  #cta button {
     background-color: #007BFF;
     color: white;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+    cursor: pointer;
+ }
+
+ #cta button:hover {
+    background-color: #0056b3;
  }
